@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Assembler",
+        "logo": "../images/project-logos/assembler.jpg",
+        "duration": "May '22",
+        "description": "This Assembler converts assembly code into binary code according to its ISA.",
+        "technologies": ["Python"],
+        "link": "https://github.com/naman-ng/Assembler"
+    },
+    {
+        "title": "Instruction-Set-Simulator",
+        "logo": "../images/project-logos/simulator.png",
+        "duration": "May '21",
+        "description": "Mimics the behavior of a mainframe or microprocessor by 'reading' instructions and maintaining internal variables which represent the processor's registers.",
+        "technologies": ["Python"],
+        "link": "https://github.com/naman-ng/Instruction-Set-Simulator"
+    }
+    
+]

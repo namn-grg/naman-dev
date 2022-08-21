@@ -1,0 +1,39 @@
+<script>
+    import Heading from '../shared/Heading.svelte';
+    import ProjectDetails from './ProjectDetails.svelte';
+    import projects from '../../json/projects.json';
+    let headingText = 'Projects';
+</script>
+
+<div id="projects">
+    <Heading {headingText} />
+    <p class="text">
+        You can find all my projects on my <a
+            href="https://github.com/naman-ng/">GitHub</a
+        >. The most significant ones are mentioned are below.
+    </p>
+    {#each projects as project}
+        <ProjectDetails {project} />
+    {/each}
+</div>
+
+<style>
+    .text {
+        margin-top: 50px;
+    }
+
+    #projects {
+        margin-top: 80px;
+    }
+
+    /* Mobile Styling */
+    @media only screen and (max-width: 550px) {
+        #projects {
+            margin-top: 50px;
+        }
+    }
+
+    p {
+        color: #f5f5f5;
+    }
+</style>
