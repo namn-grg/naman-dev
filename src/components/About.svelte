@@ -19,7 +19,7 @@
             <br />
             I'm constantly learning new things and technology.
             <br />
-            I play badminton and seldom go to gym .I read manga or manhua or manhwa
+            I play badminton and seldom go to gym. I read manga or manhua or manhwa
             (whichever you are familier with).
         </p>
     </div>
