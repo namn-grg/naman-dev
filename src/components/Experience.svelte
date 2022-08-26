@@ -9,11 +9,11 @@
     <Heading {headingText} />
     <p class="text">
         If you like my work and are interested in working with me, you can
-        contact me via this <a href="#contact">Contact Form</a>.
+        contact me via this. Remember everyone once starts with 0 experience. <a href="#contact">Contact Form</a>.
     </p>
-    {#each workex as exp}
+    <!-- {#each workex as exp}
         <ExperienceDetails {exp} />
-    {/each}
+    {/each} -->
 </div>
 
 <style>
