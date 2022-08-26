@@ -14,13 +14,12 @@
             I am a 2nd year undergrad at
             <a href="https://iiitd.ac.in/" target="_blank">IIIT Delhi</a>,
             majoring in ECE. My major interests lies in CSE subjects. I am
-            currently a improving my DSA.
+            currently improving my DSA.
             <br />
             <br />
             I'm constantly learning new things and technology.
             <br />
-            I play badminton and seldom go to gym. I read manga or manhua or manhwa
-            (whichever you are familier with).
+            I sometimes play badminton and go to gym.
         </p>
     </div>
 </div>

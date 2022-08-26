@@ -1,5 +1,13 @@
 [
     {
+        "title":"Movieland",
+        "logo":"https://picsum.photos/200",
+        "duration":"",
+        "description":"Fetch all your favourite movies",
+        "technologies":["React"],
+        "link":"https://github.com/naman-ng/movieland"
+    },
+    {
         "title": "Assembler",
         "logo": "../images/project-logos/assembler.jpg",
         "duration": "May '22",
@@ -15,5 +23,4 @@
         "technologies": ["Python"],
         "link": "https://github.com/naman-ng/Instruction-Set-Simulator"
     }
-    
 ]
